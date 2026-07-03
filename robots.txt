@@ -1,0 +1,6 @@
+# robots.txt for EduSphere Academy
+
+User-agent: *
+Allow: /
+
+Sitemap: https://edusphereacademy.netlify.app/sitemap.xml
