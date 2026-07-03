@@ -4,7 +4,8 @@ A modern, responsive educational website built using HTML, CSS, and JavaScript.
 
 ## 🌐 Live Website
 
-https://edusphereacademy.netlify.app
+https://educational-website-18.netlify.app
+
 
 ## 📂 GitHub Repository
 
