@@ -8,7 +8,7 @@ https://edusphereacademy.netlify.app
 
 ## 📂 GitHub Repository
 
-https://github.com/Jayanth1814/EduSphere
+https://github.com/Jayanth1814/EdusphereAcademy
 
 ---
 
